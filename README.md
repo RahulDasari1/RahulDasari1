@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulDasari
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://www.linkedin.com/in/rahul-dasari-drp
 

@@ -11,7 +11,7 @@
 - Technologies: Web Development.
 
 ## Projects
-[E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
+ [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
 - Led the development of a robust e-commerce website leveraging cutting-edge technologies.
 - Implemented responsive design principles to ensure seamless user experience across various devices.
 - Achieved increased overall conversion rates 4.04%, optimizing overall website functionality and user satisfaction.<br>

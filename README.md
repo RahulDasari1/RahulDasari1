@@ -12,18 +12,18 @@
 
 ## Projects
 <div>
-[E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
+[E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)</div>
  - Led the development of a robust e-commerce website leveraging cutting-edge technologies.
  - Implemented responsive design principles to ensure seamless user experience across various devices.
  - Achieved increased overall conversion rates 4.04%, optimizing overall website functionality and user satisfaction.
-</div>
+
 <div>
- [Stock Price Prediction Project](https://github.com/RahulDasari1/Stock_Price_Prediction_Project/)
+ [Stock Price Prediction Project](https://github.com/RahulDasari1/Stock_Price_Prediction_Project/)</div>
  - Engaged in a dynamic Stock Price Prediction initiative that harnessed cutting-edge Machine Learning techniques for accurate forecasting in the financial domain.
  - Implemented advanced Machine Learning techniques, employing both Linear Regression and Long Short-Term Memory (LSTM) networks.
  - Achieved a remarkable increase in prediction accuracy from 85.51% to 91.27%, showcasing expertise in financial forecasting and data-driven decision-making.
 
-</div>
+
 
 ## Experience
 **[Full Stack Developer Intern]**

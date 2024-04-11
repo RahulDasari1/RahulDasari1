@@ -38,7 +38,7 @@
 - Portfolio: [https://rahuldasari.netlify.app/]
 
 ## GitHub Stats
-![https://github.com/RahulDasari1](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rahul Dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulDasari1&show_icons=true&theme=radical)
 
 ## Recent GitHub Activity
 - [Repository Name](Link to repository) - Brief description of your recent activity.

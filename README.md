@@ -41,8 +41,8 @@
 ![Rahul Dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulDasari1&show_icons=true&theme=radical)
 
 ## Recent GitHub Activity
-- [Repository Name](Link to repository) - Brief description of your recent activity.
-- [Repository Name](Link to repository) - Brief description of your recent activity.
+- [Illuminate 2k24 website](https://github.com/RahulDasari1/event_website)
+- Illuminate 2k24 is the annual technical fest of CMR Institute of Technology, celebrating innovation, creativity, and technical excellence. Engage in thrilling technical competitions, insightful workshops, project exhibitions, and cultural activities. 
 
 ## Let's Connect!
 Feel free to reach out to me to discuss collaborations, projects, or just to say hi! 😊

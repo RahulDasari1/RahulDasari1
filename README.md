@@ -14,7 +14,7 @@
 [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
 - Led the development of a robust e-commerce website leveraging cutting-edge technologies.
 - Implemented responsive design principles to ensure seamless user experience across various devices.
-- Achieved increased overall conversion rates 4.04%, optimizing overall website functionality and user satisfaction.
+- Achieved increased overall conversion rates 4.04%, optimizing overall website functionality and user satisfaction.<br>
 [Stock Price Prediction Project](https://github.com/RahulDasari1/Stock_Price_Prediction_Project/)
 - Engaged in a dynamic Stock Price Prediction initiative that harnessed cutting-edge Machine Learning techniques for accurate forecasting in the financial domain.
 - Implemented advanced Machine Learning techniques, employing both Linear Regression and Long Short-Term Memory (LSTM) networks.

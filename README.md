@@ -38,7 +38,7 @@
 - Portfolio: [https://rahuldasari.netlify.app/]
 
 ## GitHub Stats
-![Rahul Dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulDasari1&show_icons=true&theme=radical)
+![Rahul Dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulDasari1&theme=dark&show_icons=true&count_private=true)
 ![Rahul Dasari's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulDasari1&theme=dark&hide_border=false)
 ## Recent GitHub Activity
 - **[Illuminate 2k24 website](https://github.com/RahulDasari1/event_website)**

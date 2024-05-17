@@ -43,7 +43,7 @@
 
 ## Technologies That I Know
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,canva,figma,github,html,java,js,linux,mysql,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,css,discord,docker,figma,github,html,java,js,linux,mysql,py,react,vscode&perline=14" />
   </a>
 ## Recent GitHub Activity
 - **[Illuminate 2k24 website](https://github.com/RahulDasari1/event_website)**

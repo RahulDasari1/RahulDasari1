@@ -45,6 +45,7 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,java,css,discord,docker,figma,github,html,java,js,linux,mysql,py,react,vscode&perline=14" />
   </a>
+  
 ## Recent GitHub Activity
 - **[Illuminate 2k24 website](https://github.com/RahulDasari1/event_website)**
 - Illuminate 2k24 is the annual technical fest of CMR Institute of Technology, celebrating innovation, creativity, and technical excellence. Engage in thrilling technical competitions, insightful workshops, project exhibitions, and cultural activities. 

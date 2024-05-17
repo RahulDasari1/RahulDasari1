@@ -30,7 +30,7 @@
  - Developed a project that helps people traveling in RTC buses this application will impact more people.
    
 ## Certifications
-- [Certification Name](Link to certification) - Issuing Organization
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/9UD48Z7RGPAV) - Google
 
 ## Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/rahul-dasari-drp/]

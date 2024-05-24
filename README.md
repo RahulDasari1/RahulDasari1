@@ -6,9 +6,11 @@
 - 🎓 Studying Computer Science at CMR Institute of Technology.
 - 💻 Passionate about evolving tech landscape.
 
-## Skills
-- Programming Languages: C, C++, Python, Java.
-- Technologies: Web Development.
+
+## Technologies That I Know
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,css,discord,docker,figma,github,html,java,js,linux,mysql,py,react,vscode&perline=14" />
+  </a>
 
 ## Projects
 - [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
@@ -40,12 +42,7 @@
 ## GitHub Stats
 ![Rahul Dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulDasari1&theme=dark&show_icons=true&count_private=true)
 ![Rahul Dasari's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulDasari1&theme=dark&hide_border=false)
-
-## Technologies That I Know
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,css,discord,docker,figma,github,html,java,js,linux,mysql,py,react,vscode&perline=14" />
-  </a>
-  
+ 
 ## Recent GitHub Activity
 - **[Illuminate 2k24 website](https://github.com/RahulDasari1/event_website)**
 - Illuminate 2k24 is the annual technical fest of CMR Institute of Technology, celebrating innovation, creativity, and technical excellence. Engage in thrilling technical competitions, insightful workshops, project exhibitions, and cultural activities. 

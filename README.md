@@ -1,5 +1,5 @@
 # Hi there, I'm Rahul Dasari! 👋
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f47ce674-5321-43df-977f-232f7dc26099/deploy-status)](https://app.netlify.com/sites/rahuldasari/deploys)
+
 ## About Me
 - 🌱 I'm a Frontend Developer based in Hyderabad.
 - 💼 Currently working as a Freelancer.

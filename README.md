@@ -35,9 +35,9 @@
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/9UD48Z7RGPAV) - Google
 
 ## Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/rahul-dasari-drp/]
-- Twitter: [https://twitter.com/RahulDasari_]
-- Portfolio: [https://rahuldasari.netlify.app/]
+- LinkedIn: https://www.linkedin.com/in/rahul-dasari-drp
+- Twitter: https://twitter.com/RahulDasari_
+- Portfolio: https://rahuldasari.netlify.app
 
 ## GitHub Stats
 ![Rahul Dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulDasari1&theme=dark&show_icons=true&count_private=true)

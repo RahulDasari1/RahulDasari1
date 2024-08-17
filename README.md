@@ -36,7 +36,7 @@
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rahul-dasari-drp
-- Twitter: https://twitter.com/RahulDasari_
+- Twitter: https://twitter.com/RahulDasari
 - Portfolio: https://rahuldasari.netlify.app
 
 ## GitHub Stats

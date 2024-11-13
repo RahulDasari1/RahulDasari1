@@ -27,7 +27,7 @@
 
 ## Experience
 **Full Stack Developer Intern**
-[Swecha | 2021 - 2022]
+[Swecha | 2021 - 2022 ]
  - Worked on an Industry oriented Civic Dashboard Project.
  - Developed a project that helps people traveling in RTC buses this application will impact more people.
    

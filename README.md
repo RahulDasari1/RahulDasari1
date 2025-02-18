@@ -38,6 +38,7 @@
 - Java-J2EE certification - WIPRO
 - Fundamentals of Cybersecurity - Zscaler
 - Introduction to Generative AI - AWS
+- Azure Fundamentals - Microsoft
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rahul-dasari-drp

@@ -39,6 +39,7 @@
 - Fundamentals of Cybersecurity - Zscaler
 - Introduction to Generative AI - AWS
 - Azure Fundamentals - Microsoft
+- Machine Learning Foundation - Alteryx
 - Facebook Marketing - Meta
 - Certified Marketing Insider - LinkedIn 
 

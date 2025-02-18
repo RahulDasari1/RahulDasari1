@@ -13,17 +13,17 @@
   </a>
 
 ## Projects
-- [Smart Design Score Checker](https://github.com/RahulDasari1/Smart-Design-Score-Checker)
+ [Smart Design Score Checker](https://github.com/RahulDasari1/Smart-Design-Score-Checker)
  -  Implemented a scoring algorithm to assess usability, aesthetics, and accessibility, enhancing the overall user experience across various devices.
  -  Increased design quality by 20% by optimizing website functionality and user satisfaction, leading to a 4.04% boost in overall conversion rates.
  -  Enhanced accessibility compliance by integrating WCAG standards, ensuring inclusivity and seamless interaction for all users.
    
-- [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
+ [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
  - Led the development of a robust e-commerce website leveraging cutting-edge technologies.
  - Implemented responsive design principles to ensure seamless user experience across various devices.
  - Achieved increased overall conversion rates 4.04%, optimizing overall website functionality and user satisfaction.
 
-- [Stock Price Prediction Project](https://github.com/RahulDasari1/Stock_Price_Prediction_Project/)
+ [Stock Price Prediction Project](https://github.com/RahulDasari1/Stock_Price_Prediction_Project/)
  - Engaged in a dynamic Stock Price Prediction initiative that harnessed cutting-edge Machine Learning techniques for accurate forecasting in the financial domain.
  - Implemented advanced Machine Learning techniques, employing both Linear Regression and Long Short-Term Memory (LSTM) networks.
  - Achieved a remarkable increase in prediction accuracy from 85.51% to 91.27%, showcasing expertise in financial forecasting and data-driven decision-making.

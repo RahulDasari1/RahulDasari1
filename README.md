@@ -39,6 +39,9 @@
 - Fundamentals of Cybersecurity - Zscaler
 - Introduction to Generative AI - AWS
 - Azure Fundamentals - Microsoft
+- Facebook Marketing - Meta
+- Certified Marketing Insider - LinkedIn 
+
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rahul-dasari-drp

@@ -35,6 +35,7 @@
 - Google Data Analytics - Google
 - Google UX Design - Google
 - Artificial Intelligence Fundamentals - IBM
+- Java-J2EE certification - WIPRO
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rahul-dasari-drp

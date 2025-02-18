@@ -34,6 +34,7 @@
 ## Certifications
 - Google Data Analytics - Google
 - Google UX Design - Google
+- Artificial Intelligence Fundamentals - IBM
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rahul-dasari-drp

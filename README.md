@@ -13,6 +13,11 @@
   </a>
 
 ## Projects
+- [Smart Design Score Checker](https://github.com/RahulDasari1/Smart-Design-Score-Checker)
+ -  Implemented a scoring algorithm to assess usability, aesthetics, and accessibility, enhancing the overall user experience across various devices.
+ -  Increased design quality by 20% by optimizing website functionality and user satisfaction, leading to a 4.04% boost in overall conversion rates.
+ -  Enhanced accessibility compliance by integrating WCAG standards, ensuring inclusivity and seamless interaction for all users.
+   
 - [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
  - Led the development of a robust e-commerce website leveraging cutting-edge technologies.
  - Implemented responsive design principles to ensure seamless user experience across various devices.

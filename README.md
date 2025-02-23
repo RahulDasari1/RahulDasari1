@@ -13,7 +13,11 @@
   </a>
 
 ## Projects
-
+ [BidNext](https://github.com/RahulDasari1/bidnext)
+ - Designed and developed a secure and interactive platform for online bidding and auctions.
+ - Implemented features like real-time bidding, user authentication, and automated bid tracking.
+ - Utilized HTML, CSS, JavaScript, and backend technologies to ensure a seamless and responsive user experience.
+ 
  [E-Commerce Website](https://github.com/RahulDasari1/ecommercewebiste/)
  - Led the development of a robust e-commerce website leveraging cutting-edge technologies.
  - Implemented responsive design principles to ensure seamless user experience across various devices.

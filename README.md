@@ -9,7 +9,7 @@
 
 ## Technologies That I Know
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,css,discord,docker,figma,github,html,java,js,linux,mysql,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,css,discord,docker,figma,github,html,java,js,linux,mysql,py,react,vscode,arduino,bootstrap,eclipse,pycharm,selenium,wordpress	&perline=14" />
   </a>
 
 ## Projects

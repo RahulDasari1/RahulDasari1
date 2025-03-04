@@ -67,5 +67,5 @@
 ## Let's Connect!
 Feel free to reach out to me to discuss collaborations, projects, or just to say hi! 😊
 
--[Rahul Dasri](https://rahuldasari.netlify.app/)
+- [Rahul Dasari](https://rahuldasari.netlify.app/)
 

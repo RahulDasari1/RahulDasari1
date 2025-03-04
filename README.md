@@ -65,7 +65,5 @@
  -  Enhanced accessibility compliance by integrating WCAG standards, ensuring inclusivity and seamless interaction for all users.
    
 ## Let's Connect!
-Feel free to reach out to me to discuss collaborations, projects, or just to say hi! 😊
-
-- [Rahul Dasari](https://rahuldasari.netlify.app/)
+Feel free to reach out to me to discuss collaborations, projects, or just to say hi! 😊 [Rahul Dasari](https://rahuldasari.netlify.app/)
 

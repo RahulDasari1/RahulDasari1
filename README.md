@@ -2,8 +2,8 @@
 
 ## About Me
 - 🌱 I'm a Software Developer based in Hyderabad.
-- 💼 Currently working as a Freelancer.
-- 🎓 Studying Computer Science at CMR Institute of Technology.
+- 💼 Currently working as a Specialist Programmer at Infosys.
+- 🎓 Graduated from CMR Institute of Technology in Computer Science.
 - 💻 Passionate about evolving tech landscape.
 
 

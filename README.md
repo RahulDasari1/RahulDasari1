@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul Dasari! 👋
 
 ## About Me
-- 🌱 I'm a Frontend Developer based in Hyderabad.
+- 🌱 I'm a Software Developer based in Hyderabad.
 - 💼 Currently working as a Freelancer.
 - 🎓 Studying Computer Science at CMR Institute of Technology.
 - 💻 Passionate about evolving tech landscape.

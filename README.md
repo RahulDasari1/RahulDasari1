@@ -31,11 +31,20 @@
 
 
 ## Experience
-**Full Stack Developer Intern**
-[Swecha | 2021 - 2022 ]
- - Worked on an Industry oriented Civic Dashboard Project.
- - Developed a project that helps people traveling in RTC buses this application will impact more people.
-   
+
+**Specialist Programmer**
+[Infosys | Aug 2025 – Present]
+– Engineered and optimized enterprise-grade applications leveraging C#, .NET, Angular, and Microsoft Azure.
+– Built cloud-based solutions on Azure, ensuring 99.9% uptime and 30% higher scalability.
+– Collaborated with cross-functional teams to deliver secure and user-friendly software solutions.
+
+**Software Engineering Intern Hyderabad**
+[Virtusa | Apr 2025 – Jun 2025]
+– Developed backend components using Java and Spring Boot with robust API integrations.
+– Streamlined testing workflows, accelerating release cycles by 25%.
+– Worked with agile teams to enhance architecture understanding and accelerate full-stack proficiency.
+
+
 ## Certifications
 - Google Data Analytics - Google
 - Google UX Design - Google

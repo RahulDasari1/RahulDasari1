@@ -32,7 +32,7 @@
 
 ## Experience
 
-**Specialist Programmer**
+**Specialist Programmer**\n
 [Infosys | Aug 2025 – Present]
 – Engineered and optimized enterprise-grade applications leveraging C#, .NET, Angular, and Microsoft Azure.
 – Built cloud-based solutions on Azure, ensuring 99.9% uptime and 30% higher scalability.

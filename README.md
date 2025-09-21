@@ -34,15 +34,15 @@
 
 **Specialist Programmer**<br/>
 [Infosys | Aug 2025 – Present]<br/>
-– Engineered and optimized enterprise-grade applications leveraging C#, .NET, Angular, and Microsoft Azure.
-– Built cloud-based solutions on Azure, ensuring 99.9% uptime and 30% higher scalability.
-– Collaborated with cross-functional teams to deliver secure and user-friendly software solutions.
+- Engineered and optimized enterprise-grade applications leveraging C#, .NET, Angular, and Microsoft Azure.
+- Built cloud-based solutions on Azure, ensuring 99.9% uptime and 30% higher scalability.
+- Collaborated with cross-functional teams to deliver secure and user-friendly software solutions.
 
 **Software Engineering Intern Hyderabad**<br/>
 [Virtusa | Apr 2025 – Jun 2025]<br/>
-– Developed backend components using Java and Spring Boot with robust API integrations.
-– Streamlined testing workflows, accelerating release cycles by 25%.
-– Worked with agile teams to enhance architecture understanding and accelerate full-stack proficiency.
+- Developed backend components using Java and Spring Boot with robust API integrations.
+- Streamlined testing workflows, accelerating release cycles by 25%.
+- Worked with agile teams to enhance architecture understanding and accelerate full-stack proficiency.
 
 
 ## Certifications
